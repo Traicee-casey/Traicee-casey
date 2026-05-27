@@ -1,6 +1,6 @@
 Hi there, I'm Tracy 👋 🇰🇪
 
-### 💻 Developer from Nairobi, Kenya
+### 💻 Developer from Nyeri, Kenya
 
 ## 🛠️ My Skills
 
