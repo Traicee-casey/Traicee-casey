@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Tracy 👋</h1>
-
 <h3 align="center">Software Developer | Backend & Web Systems | Nyeri, Kenya 🇰🇪</h3>
 
 <p align="center">
